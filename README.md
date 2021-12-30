@@ -1,8 +1,8 @@
 <div align="center">
     <img src="https://daangamesdg.xyz/assets/svg/logo.svg" width="100px" />
-    <h1>bot-template</h1>
+    <h1>@daangamesdg/discord-giveaways</h1>
   
-  <p>Just like an uncoloured drawing.</p>
+  <p>A giveaway handler for Discord.js v13.x.x. Create giveaways with ease using @daangamesdg/discord-giveaways</p>
   
   <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg" />
